@@ -1,6 +1,8 @@
 # NightNode - A node Dark Theme for Developers
 
-![NightNode Banner](path/to/banner-image.png)
+<p align="center">
+  <img alt="Night Node Logo" src="images/night-node-logo.png" width="100" />
+</p>
 
 ## 🌙 NightNode: Code in the Shadows
 
@@ -11,14 +13,14 @@ Welcome to **NightNode**, the ultimate dark theme designed for developers who th
 ![NightNode in Action](images/snippet-1.png)
 ![NightNode in Action](images/snippet-2.png)
 
-
 ### ✨ Features
 
 - **Balanced Color Palette**: Carefully selected colors that enhance readability while reducing eye strain.
 - **Vibrant Highlights**: Key elements like keywords, constants, and functions pop with vibrant, yet soothing colors.
 - **Consistent Design**: A cohesive theme that maintains visual consistency across your entire editor.
 - **Focused Coding Experience**: The dark background and balanced contrast keep distractions at bay, letting you focus on what matters most—your code.
-<!-- 
+<!--
+
 ### 🎨 Color Palette
 
 - **Functions**: `#53CB87` (Green-Teal)
@@ -31,7 +33,6 @@ Welcome to **NightNode**, the ultimate dark theme designed for developers who th
 - **Errors**: `#FF5555` (Bright Red)
 - **Background**: `#1C1F24` (Charcoal Gray)
 - **Highlights**: `#262A2F` (Lighter Charcoal) -->
-
 
 ### 🚀 Installation
 
@@ -50,6 +51,6 @@ Feel free to customize the theme to your liking by editing the `settings.json` f
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ---
+
 Designed and Developed by Ayush Khatri.
 Thank you for choosing NightNode. Enjoy your coding journey in the shadows!
-
