@@ -3,6 +3,7 @@
   "displayName": "nightnode",
   "publisher": "AyushKhatri",
   "description": "NightNode is a dark theme built for developers who code best in the quiet of night. Its sleek, eye-friendly design keeps your coding smooth and stylish, anytime.",
+  "icon": "images/nightnode-icon.jpg",
   "version": "0.0.1",
   "repository": {
     "type": "git",
