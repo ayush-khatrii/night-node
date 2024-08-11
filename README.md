@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo"  src="images/new-nn-logo.png" 
+  <img alt="Night Node Logo"  src="images/new-nn-logo.png" 
  width="100"
 /> 
 </p>
