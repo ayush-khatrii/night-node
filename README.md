@@ -11,7 +11,7 @@
 
 ### 📸 Screenshots
 
-![NightNode in Action](images/snippet-1.jpg)
+![NightNode in Action](images/code-snippet-1.jpg)
 
 ### ✨ Features
 
