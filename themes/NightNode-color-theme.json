@@ -10,7 +10,7 @@
       "foreground": "#c4a251"
     },
     "variable.defaultLibrary": {
-      "foreground": "#eeeeee"
+      "foreground": "#c4a251"
     }
   },
   "tokenColors": [
@@ -200,7 +200,7 @@
       "name": "js/ts variable.other.constant",
       "scope": "variable.other.constant",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#e1e1e1"
       }
     },
     {
@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#6eea8e"
+        "foreground": "#e8e8e8"
       }
     },
     {
@@ -461,7 +461,7 @@
       "name": "python parameter",
       "scope": "variable.parameter.function.language.python",
       "settings": {
-        "foreground": "#c4a251"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -482,7 +482,7 @@
       "name": "pyCs",
       "scope": "variable.parameter.function.python",
       "settings": {
-        "foreground": "#c4a251"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#53cb87"
+        "foreground": "#cb5353"
       }
     },
     {
@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#eeeeee"
+        "foreground": "#53cb87"
       }
     },
     {
@@ -729,14 +729,14 @@
       "name": "Meta tag",
       "scope": "meta.tag",
       "settings": {
-        "foreground": "#f7f7f7"
+        "foreground": "#ffffff"
       }
     },
     {
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#e2b45d"
+        "foreground": "#eac174"
       }
     },
     {
@@ -792,7 +792,7 @@
       "name": "Attribute IDs",
       "scope": "entity.other.attribute-name.id",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#69b2e7"
       }
     },
@@ -800,7 +800,7 @@
       "name": "Attribute class",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "fontStyle": "normal",
+        "fontStyle": "",
         "foreground": "#c4a251"
       }
     },
@@ -1372,7 +1372,7 @@
         "variable.parameter.function.js"
       ],
       "settings": {
-        "foreground": "#6eea8e"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1528,7 +1528,7 @@
         "variable.parameter.function.coffee"
       ],
       "settings": {
-        "foreground": "#6eea8e"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -1817,9 +1817,26 @@
     },
     {
       "name": "js/ts italic",
-      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+      "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "",
+        "foreground": "#f8f8f8"
+      }
+    },
+    {
+      "name": "js/ts italic",
+      "scope": "variable.parameter",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#c4a251"
+      }
+    },
+    {
+      "name": "js/ts italic",
+      "scope": "entity.other.attribute-name.jsx",
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#d2ac55"
       }
     },
     {
